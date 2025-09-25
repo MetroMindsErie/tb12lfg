@@ -124,6 +124,5 @@ target/
 *.swo
 
 
-public/
 
 *.sql
